@@ -1,4 +1,4 @@
-// Exercises: Level 2
+// Day-06 Exercises: Level 2
 
 const countries = [
   "Albania",
