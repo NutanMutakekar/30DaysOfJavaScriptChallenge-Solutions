@@ -1,4 +1,4 @@
-
+//Day-06 level1 exercises
 const countries = [
     'Albania',
     'Bolivia',
