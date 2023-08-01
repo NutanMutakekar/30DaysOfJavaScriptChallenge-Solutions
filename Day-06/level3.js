@@ -1,6 +1,6 @@
 // Exercises: Level 3
-[countriesList](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/data/countries.js)
-// tab above link to get a countries list
+ link to countrieslist [countriesList](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/data/countries.js)
+
                 
 const countries = [
   "Afghanistan",
