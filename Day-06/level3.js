@@ -1,5 +1,5 @@
 // Exercises: Level 3
- link to countrieslist [countriesList](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/data/countries.js)
+// link to countrieslist [countriesList](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/data/countries.js)
 
                 
 const countries = [
