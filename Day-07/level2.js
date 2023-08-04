@@ -79,7 +79,11 @@ console.log(capitalizeArray(["renu", "monu", "sonu"]));
 
 //8 Declare a function name addItem. It takes an item parameter and it returns an array after adding the item
 function addItem(arr) {
-  return arr.reduce((x, y) => x + y);
+  let sum=0;
+  for(let i=0;i<arr.length;i++){
+    sum+=arr[i]
+  }
+  return sum;
 }
 console.log(addItem([1, 2, 3, 4]));
 
@@ -237,7 +241,7 @@ function randomHexaNumberGenerator2() {
 }
 console.log(randomHexaNumberGenerator2());
 
-//16 Declare a function name userIdGenerator. When this function is called it generates seven character id. The function return the id.
+//18 Declare a function name userIdGenerator. When this function is called it generates seven character id. The function return the id.
 function userIdGenerator() {
   let string = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
   let userId = "";
