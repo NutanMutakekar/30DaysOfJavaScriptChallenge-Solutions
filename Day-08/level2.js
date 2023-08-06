@@ -113,13 +113,13 @@ const keys=Object.keys(users)
 console.log(keys)
 
 //6 Get all the values of users object
-
 const values=Object.values(users)
 console.log(values)
 
 //7 Use the countries object to print a country name, capital, populations and languages.
 
 //you can find entire countries_data list at: https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/data/countries_data.js
+
 const countries_data = [
 	{
 			"name": "Afghanistan",
